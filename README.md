@@ -33,3 +33,5 @@ Prediction task is to determine whether a person makes over 50K a year.
 - capital-loss: continuous.
 - hours-per-week: continuous.
 - native-country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands.
+
+The prokect cleans data, and goes through the features selection and feature engineering exercises. If you run <a href='https://github.com/FainaBurman/Adult-Dataset-Income-Prediction/blob/main/take_home.ipynb'>take_home.ipynb</a>, a csv with the predicted values will be saved locally. 
